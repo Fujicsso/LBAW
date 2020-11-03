@@ -6,10 +6,10 @@ The objective of this project is to develop a web application for an online smar
 
 ### Team
 
-- Eduardo Ferreira Campos, up201604920@fe.up.pt
-- Miguel Rodrigues Gomes, up201605908@fe.up.pt
-- João Paulo Ribeiro Nunes, up201705457@fe.up.pt
-- João Pedro da Costa Ribeiro, up201704851@fe.up.pt
+- Eduardo Ferreira Campos
+- Miguel Rodrigues Gomes
+- João Paulo Ribeiro Nunes
+- João Pedro da Costa Ribeiro
 
 ### Artefacts
 

@@ -2,7 +2,7 @@
 
 ## Project
 
-O objetivo deste projeto é desenvolver uma aplicação web para uma loja de smartphones online, chamada uPhone.
+The objective of this project is to develop a web application for an online smartphone store, named uPhone.
 
 ### Team
 
